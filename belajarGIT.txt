@@ -1,0 +1,10 @@
+Belajar GIT
+
+- git dalah version control system
+- (working area) -> add -> (staging area) -> commit -> (commit area) -> push -> (server)
+- masuk ke direktori
+- masuk le cmd git
+- git contig --global user.email "elsa.8951@students.amikom.ac.id" => menganti nama, cukup sekali
+- git config --global user.email "elsa.8951@students.amikom.ac.id" => mengganti email, cukup sekali
+- init => digunakan membuat folder agar menjadi repositori git dengan perintah => git init .
+- untuk melihat file yang belum di commit => git status
